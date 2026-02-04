@@ -34,7 +34,7 @@ I’m passionate about **cybersecurity, software development, and red teaming**,
 
 ## 🔨 Currently Working On
 
-### [Cybersecurity Knowledge Base](https://github.com/Nmarino8/cybersecurity-knowledge-base)  
+### [Cybersecurity Knowledge Base](https://github.com/nikomarinovic/cybersecurity-knowledge-base)  
 A comprehensive, collaborative library covering cybersecurity attacks, protocols, cryptography, tools, defenses, labs, and learning resources.  
 
 This is an **open collaborative project**, aiming to become the largest freely available cybersecurity knowledge repository. Contributors can help by:  
@@ -45,7 +45,7 @@ This is an **open collaborative project**, aiming to become the largest freely a
 
 ---
 
-### [StudyFlow](https://github.com/Nmarino8/StudyFlow)  
+### [StudyFlow](https://github.com/nikomarinovic/StudyFlow)  
 A privacy-first weekly study planner for students, helping organize exams, projects, and study schedules using a weekly calendar interface.  
 
 Currently under **active development**, with planned work including:  
