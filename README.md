@@ -69,9 +69,7 @@ You can help by:
 
 **Everyone is encouraged to contribute**, whether you're a beginner or an experienced developer. Your input helps keep these projects useful and up to date.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="22" height="22" /> **Get involved:** **[Explore repositories](https://github.com/Nmarino8?tab=repositories)**, 
-**join discussions**, 
-or **submit a pull request**.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="22" height="22" /> **Get involved:** **Explore repositories**, **join discussions**, or **submit a pull request**.
 
 
 <img 
