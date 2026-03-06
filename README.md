@@ -34,25 +34,10 @@ I’m passionate about **cybersecurity, software development, and red teaming**,
 
 ## 🔨 Currently Working On
 
-### [Cybersecurity Knowledge Base](https://github.com/nikomarinovic/cybersecurity-knowledge-base)  
-A comprehensive, collaborative library covering cybersecurity attacks, protocols, cryptography, tools, defenses, labs, and learning resources.  
+### [Belot Card Game](https://github.com/nikomarinovic/Belot-Card-Game) 
 
-This is an **open collaborative project**, aiming to become the largest freely available cybersecurity knowledge repository. Contributors can help by:  
-- Adding new attacks, protocols, or lab exercises  
-- Improving existing documentation and guides  
-- Submitting practical examples, diagrams, or code snippets  
-- Sharing recommended resources, tools, and references  
+Developed as my final project, this application explores iOS development and game logic through a functional digital version of Belot, focusing on smooth gameplay and an intuitive user experience.
 
----
-
-### [StudyFlow](https://github.com/nikomarinovic/StudyFlow)  
-A privacy-first weekly study planner for students, helping organize exams, projects, and study schedules using a weekly calendar interface.  
-
-Currently under **active development**, with planned work including:  
-- Full calendar functionality with local data storage  
-- Adding exams and project reminders  
-- Study plan generation and progress tracking  
-- Improving UI/UX and mobile responsiveness  
 
 ---
 
