@@ -38,6 +38,13 @@ I’m passionate about **cybersecurity, software development, and red teaming**,
 
 Developed as my final project, this application explores iOS development and game logic through a functional digital version of Belot, focusing on smooth gameplay and an intuitive user experience.
 
+### [Bright Icons](https://github.com/nikomarinovic/Bright-icons)
+
+Bright Icons is a fast, minimal, and versatile icon generator. Create custom icons with backgrounds, patterns, and colors, then export them instantly in SVG, PNG, or JPG. Focused on speed, simplicity, and a clean, aesthetic interface.
+
+### [QRForge](https://github.com/nikomarinovic/QRForge)
+
+QRForge is a sleek, client-side QR code generator with advanced customization. Design unique QR codes with custom shapes, colors, logos, and text, preview the final result, and export in multiple formats. Built for ease of use and modern design aesthetics.
 
 ---
 
