@@ -1,9 +1,10 @@
 # Hi, I'm Niko <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />
 
-I’m an 18-year-old aspiring **Software Developer & Cybersecurity Enthusiast** from Zagreb, Croatia.  
-Currently, I’m finishing high school at **Tehnička škola Ruđera Boškovića**, specializing as a **Computer Technician – Programming**, and preparing to start university.  
+I’m a Computer Science student at the University of Zagreb Faculty of Electrical Engineering and Computing (FER) from Zagreb, Croatia.
 
-I’m passionate about **cybersecurity, software development, and red teaming**, and I enjoy creating projects that blend creativity with technical skills. I love exploring new technologies, tackling challenging problems, and continuously learning in the ever-evolving world of tech.
+I have a strong interest in software development, cybersecurity, and red teaming, with a passion for building practical applications and continuously expanding my technical knowledge. I enjoy designing and developing projects that combine clean software engineering principles with creative problem-solving.
+
+I’m always eager to learn new technologies, take on challenging projects, and deepen my understanding of computer systems, networking, and modern software development. My goal is to grow as a software engineer while developing expertise in cybersecurity and contributing to innovative, impactful solutions.
 
 ---
 
@@ -34,17 +35,9 @@ I’m passionate about **cybersecurity, software development, and red teaming**,
 
 ## 🔨 Currently Working On
 
-### [Belot Card Game](https://github.com/nikomarinovic/Belot-Card-Game) 
+### [WeatherOS](https://github.com/nikomarinovic/WeatherOS)
 
-Developed as my final project, this application explores iOS development and game logic through a functional digital version of Belot, focusing on smooth gameplay and an intuitive user experience.
-
-### [Bright Icons](https://github.com/nikomarinovic/Bright-icons)
-
-Bright Icons is a fast, minimal, and versatile icon generator. Create custom icons with backgrounds, patterns, and colors, then export them instantly in SVG, PNG, or JPG. Focused on speed, simplicity, and a clean, aesthetic interface.
-
-### [QRForge](https://github.com/nikomarinovic/QRForge)
-
-QRForge is a sleek, client-side QR code generator with advanced customization. Design unique QR codes with custom shapes, colors, logos, and text, preview the final result, and export in multiple formats. Built for ease of use and modern design aesthetics.
+WeatherOS is a modern desktop weather application that provides real-time weather data through a clean and intuitive interface. Designed with a strong emphasis on performance, usability, and responsive design, it demonstrates practical experience in API integration, desktop application development, and user-focused UI design.
 
 ---
 
