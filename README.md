@@ -11,7 +11,7 @@ I’m always eager to learn new technologies, take on challenging projects, and 
 ## 💻 Tech & Tools
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cs,js,html,css,php,swift" />
+<img src="https://skillicons.dev/icons?i=c,cs,js,html,css,python,swift" />
 
 ### Development & Command Line
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell,bash,npm" />
@@ -26,7 +26,7 @@ I’m always eager to learn new technologies, take on challenging projects, and 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase,firebase" />
 
 ### Platforms & Cloud
-<img src="https://skillicons.dev/icons?i=netlify,gcp" />
+<img src="https://skillicons.dev/icons?i=netlify,gcp,aws" />
 
 ### Operating Systems
 <img src="https://skillicons.dev/icons?i=linux,kali,mint,ubuntu,windows,apple" />
@@ -35,9 +35,13 @@ I’m always eager to learn new technologies, take on challenging projects, and 
 
 ## 🔨 Currently Working On
 
-### [WeatherOS](https://github.com/nikomarinovic/WeatherOS)
+### [PortScanner](https://github.com/nikomarinovic/port-scanner)
 
-WeatherOS is a modern desktop weather application that provides real-time weather data through a clean and intuitive interface. Designed with a strong emphasis on performance, usability, and responsive design, it demonstrates practical experience in API integration, desktop application development, and user-focused UI design.
+Asynchronous TCP port scanner and service fingerprinter, built in pure Python.
+
+### [URL Parser](https://github.com/nikomarinovic/url-parser)
+
+A powerful Python URL parser & security analysis toolkit for developers, security researchers, and automation.
 
 ---
 
