@@ -35,13 +35,47 @@ I’m always eager to learn new technologies, take on challenging projects, and 
 
 ## 🔨 Currently Working On
 
-### [PortScanner](https://github.com/nikomarinovic/port-scanner)
+A look at the projects I'm actively developing, exploring new ideas, and improving along the way.
 
-Asynchronous TCP port scanner and service fingerprinter, built in pure Python.
+---
 
-### [URL Parser](https://github.com/nikomarinovic/url-parser)
+### Awesome Links
 
-A powerful Python URL parser & security analysis toolkit for developers, security researchers, and automation.
+<a href="https://github.com/nikomarinovic/awesome-links"><img src="https://github.com/nikomarinovic/awesome-links/blob/main/.github/awesome-links-social-preview.png" width="500" alt="Awesome Links — Tools and Resources"></a>
+
+A curated collection of useful tools, developer resources, and websites worth bookmarking. Built to make discovering quality resources easier, with everything organized in one place.
+
+**Focus:** Developer Tools · Resources · Open Source
+
+[View Repository →](https://github.com/nikomarinovic/awesome-links)
+
+---
+
+### PortScanner
+
+<a href="https://github.com/nikomarinovic/port-scanner"><img src="https://raw.githubusercontent.com/nikomarinovic/port-scanner/main/public/portscanner-social-preview.png" width="500" alt="PortScanner"></a>
+
+An asynchronous TCP port scanner and service fingerprinter written in Python. Designed to explore network services, identify open ports, and help users better understand the services exposed by a target host.
+
+**Focus:** Networking · TCP/IP · Service Detection
+
+**Built with:** Python · Async I/O
+
+[View Repository →](https://github.com/nikomarinovic/port-scanner)
+
+---
+
+### URL Parser
+
+<a href="https://github.com/nikomarinovic/url-parser"><img src="https://raw.githubusercontent.com/nikomarinovic/url-parser/main/public/urlparser-social-preview.png" width="500" alt="URL Parser"></a>
+
+A URL parsing and security analysis toolkit for developers, security researchers, and automation workflows. Provides a foundation for inspecting URL components and working with URL data in security-focused applications.
+
+**Focus:** URL Parsing · Security Analysis · Developer Tools
+
+**Built with:** Python
+
+[View Repository →](https://github.com/nikomarinovic/url-parser)
 
 ---
 
